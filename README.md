@@ -64,18 +64,23 @@ motto: "Wondrous times we are living in"
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Solomonic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Solomonic&theme=tokyonight&hide_border=true" width="48%" />
+<!-- Generated daily by GitHub Actions — includes private contributions -->
+<img src="./profile-summary/0-profile-details.svg" width="72%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solomonic&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+<img src="./profile-summary/1-repos-per-language.svg" width="48%" />
+<img src="./profile-summary/2-most-commit-language.svg" width="48%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Solomonic&theme=tokyonight&hide_border=true" width="52%" />
 
 ---
 
 ### Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Solomonic&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Solomonic&theme=tokyonight&no-frame=true&no-bg=true&column=4&title=LongTimeUser,Experience,Repositories,MultipleLang" width="60%" />
 
 ---
 

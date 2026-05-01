@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jens%20Krause&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20%26%20ML%20Engineer%20%7C%20Engineering%20Manager&descSize=16&descAlignY=52" width="100%" />
+# Jens Krause
 
-<br/>
+**Senior Software & ML Engineer | Engineering Manager**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=520&lines=AI+Enthusiast+%26+Puzzle+Solver;13%2B+Years+on+GitHub;Building+the+Future+with+Code;Wondrous+times+we+are+living+in" alt="Typing SVG" />
 

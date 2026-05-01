@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=620&lines=Senior+Software+%26+ML+Engineer;Engineering+Manager;AI+Enthusiast+%26+Puzzle+Solver;Building+the+Future+with+Code" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jens%20Krause&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20%26%20ML%20Engineer%20%7C%20Engineering%20Manager&descSize=16&descAlignY=52" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=520&lines=AI+Enthusiast+%26+Puzzle+Solver;13%2B+Years+on+GitHub;Building+the+Future+with+Code;Wondrous+times+we+are+living+in" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Solomonic&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Solomonic?label=Followers&style=social" alt="Followers" />
 
 ---
 
@@ -19,7 +23,7 @@ location: Thailand
 role: Senior Software & ML Engineer / Engineering Manager
 company: Interaction Design Foundation
 interests: [AI, Machine Learning, Puzzles, Problem Solving]
-motto: "Wondrous times we are living in"
+currently: Exploring the frontiers of AI-assisted development
 ```
 
 <div align="center">
@@ -51,6 +55,7 @@ motto: "Wondrous times we are living in"
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
 
 #### Infrastructure
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -62,25 +67,15 @@ motto: "Wondrous times we are living in"
 
 ---
 
-### GitHub Stats
+### GitHub Highlights
 
-<!-- Generated daily by GitHub Actions — includes private contributions -->
-<img src="./profile-summary/0-profile-details.svg" width="72%" />
+<img src="https://img.shields.io/badge/On%20GitHub%20since-2013-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" />
+<img src="https://img.shields.io/badge/Experience-Master%20Dev-1a1b27?style=for-the-badge&labelColor=1a1b27&color=38bdae" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-1a1b27?style=for-the-badge&labelColor=1a1b27&color=bf91f3" />
 
-<br/>
-
-<img src="./profile-summary/1-repos-per-language.svg" width="48%" />
-<img src="./profile-summary/2-most-commit-language.svg" width="48%" />
-
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Solomonic&theme=tokyonight&hide_border=true" width="52%" />
-
----
-
-### Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Solomonic&theme=tokyonight&no-frame=true&no-bg=true&column=4&title=LongTimeUser,Experience,Repositories,MultipleLang" width="60%" />
 
 ---
 

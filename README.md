@@ -73,9 +73,24 @@ currently: Exploring the frontiers of AI-assisted development
 <img src="https://img.shields.io/badge/Experience-Master%20Dev-1a1b27?style=for-the-badge&labelColor=1a1b27&color=38bdae" />
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-1a1b27?style=for-the-badge&labelColor=1a1b27&color=bf91f3" />
 
-<br/><br/>
+---
 
-<img src="https://streak-stats.demolab.com/?user=Solomonic&theme=tokyonight&hide_border=true" width="52%" />
+### Currently Exploring
+
+</div>
+
+```text
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║   🧩  AI Agents & Autonomous Workflows                      ║
+ ║   🔬  ML-powered Code Analysis                              ║
+ ║   🏗️  Building developer tools with Claude                   ║
+ ║   🎯  Bridging Engineering Management & Hands-on ML          ║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
 
 ---
 
@@ -85,6 +100,26 @@ currently: Exploring the frontiers of AI-assisted development
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+### Connect
+
+<a href="https://www.interaction-design.org/members/jens-krause"><img src="https://img.shields.io/badge/IxDF-jens--krause-0057ff?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Solomonic"><img src="https://img.shields.io/badge/GitHub-Solomonic-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Based%20in-Thailand-success?style=flat-square" />
+<img src="https://img.shields.io/badge/💼_Working%20at-Interaction%20Design%20Foundation-blue?style=flat-square" />
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Solomonic/Solomonic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Solomonic/Solomonic/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Solomonic/Solomonic/output/github-snake.svg" width="90%" />
+</picture>
+
+---
+
+*"Wondrous times we are living in"*
 
 </div>

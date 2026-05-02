@@ -120,6 +120,6 @@ currently: Exploring the frontiers of AI-assisted development
 
 ---
 
-*"Wondrous times we are living in"*
+*"Wonderous times we are living in ..."*
 
 </div>

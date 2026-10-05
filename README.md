@@ -6,11 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=520&lines=AI+Enthusiast+%26+Puzzle+Solver;13%2B+Years+on+GitHub;Building+the+Future+with+Code;Wondrous+times+we+are+living+in" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Solomonic&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Solomonic?label=Followers&style=social" alt="Followers" />
-
 ---
 
 ### About Me
@@ -82,8 +77,8 @@ currently: Exploring the frontiers of AI-assisted development
 ```text
  ╔══════════════════════════════════════════════════════════════╗
  ║                                                              ║
- ║   🧩  AI Agents & Autonomous Workflows                      ║
- ║   🔬  ML-powered Code Analysis                              ║
+ ║   🧩  AI Agents & Autonomous Workflows                       ║
+ ║   🔬  ML-powered Code Analysis                               ║
  ║   🏗️  Building developer tools with Claude                   ║
  ║   🎯  Bridging Engineering Management & Hands-on ML          ║
  ║                                                              ║
